@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Valentin Gabriel De Girolamo</h1>
 <h3 align="center">Estudiante de ciencia de datos de la Universidad de Buenos Aires</h3>
 
+<h3 align="left">Proyectos:</h3>
+
 - Un poco de analisis de datos [Analisis-tiempo-en-redes](https://github.com/DegiroValen/Analisis-tiempo-en-redes)
 
 - Un poco de inteligencia artificial [IA-por-refuerzo-Blackjack](https://github.com/DegiroValen/IA-por-refuerzo-Blackjack)
