@@ -3,13 +3,6 @@
 
 <h3 align="left"> 📏🪚 PORTAFOLIO EN CONSTRUCCION 🔧🔨 </h3>
 
-
-<h3 align="left">Proyectos:</h3>
-
-- Un poco de analisis de datos [Analisis-tiempo-en-redes](https://github.com/DegiroValen/Analisis-tiempo-en-redes)
-
-- Un poco de inteligencia artificial [IA-por-refuerzo-Blackjack](https://github.com/DegiroValen/IA-por-refuerzo-Blackjack)
-
 - 💬 Se de **Algoritmos, python, SQL**
   
 <h3 align="left">Languajes:</h3>
