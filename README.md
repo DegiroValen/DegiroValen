@@ -1,7 +1,7 @@
 <h1 align="center">Hola/Hi 👋, Valentin Gabriel De Girolamo</h1>
 <h3 align="center">Data Scientist student/estudiante, Universidad de Buenos Aires</h3>
 
-<h3 align="left"> 📏🪚 PORTAFOLIO EN CONSTRUCCION / PORTAFOLIO EN CONSTRUCCION 🔧🔨 </h3>
+<h3 align="left"> 📏🪚 PORTAFOLIO EN CONSTRUCCION / PORTFOLIO UNDER CONSTRUCTION 🔧🔨 </h3>
 
 - 💬 **Algoritmos/Algorithms, Python, SQL**
   
